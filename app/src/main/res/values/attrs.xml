@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IdentityImageView">
+        <attr name="iciv_bigImage" format="reference"></attr>
+        <attr name="iciv_smallImage" format="reference"/>
+        <attr name="radiusScale" format="float"/>
+        <attr name="angle" format="float"/>
+        <attr name="isProgressbar" format="boolean"/>
+        <attr name="progressbar_color" format="color|reference"/>
+        <attr name="border_color" format="color|reference"/>
+        <attr name="border_width" format="integer"/>
+        <attr name="hint_smallImage" format="boolean"/>
+    </declare-styleable>
+</resources>
